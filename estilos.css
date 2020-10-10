@@ -1,0 +1,42 @@
+#site{
+    width: 1000px;
+    height: 700px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-right: auto;
+    background-color: azure;
+}
+#header{
+    width: 1000px;
+    height: 250;
+    background-color: antiquewhite;
+}
+#cuerpo{
+    width: 1000px;
+    height: 680px;
+    background-color: aquamarine;
+}
+#footer{
+    width: 1000px;
+    height: 150px;
+    background-color: burlywood;
+}
+#cuerpo-left{
+    width: 350px;
+    height: 680px;
+    float: left;
+    background-color: cadetblue;
+}
+#cuerpo-left2{
+    width: 350px;
+    height:300px;
+    float: left;
+    background-color:coral;
+}
+#cuerpo-right{
+    width: 500px;
+    height: 600px;
+    float: left;
+}
+
